@@ -8,7 +8,7 @@ const tasks = [
   { id: 3, title: 'Настроить сервер', completed: false }
 ];
 
-const PORT = 3000;
+const PORT = 1000;
 
 // Функция для рендеринга главной страницы со списком задач
 function renderHomePage() {
